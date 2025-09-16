@@ -1,3 +1,7 @@
-google.generativeai
 streamlit
+pandas
+google-generativeai
+pypdf
+python-dotenv
+
 
